@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **pose estimation project**
 
-- 🌱 I’m currently learning **Deep learning frameworks TensorFlow, Keras, And Edge AI with OpenVeno, AWS cloud**
-
 - 🔭 I’m currently working on **Building model to predict relative jobs according to his skills**
 
 - 🔭 I’m currently working on **Developing bank system with agile model**
+
+- 🌱 I’m currently learning **Deep learning frameworks TensorFlow, Keras, Edge AI with OpenVeno and AWS cloud**
 
 - 💬 Ask me about **ML models, python, mathematics, statistics and probability, Data science related topics,cloud**
 
