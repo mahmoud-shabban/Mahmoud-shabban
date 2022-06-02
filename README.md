@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud shabaan</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud shaban</h1>
 <h3 align="center">A passionate AI & ML engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **pose estimation project**
